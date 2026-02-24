@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import Dashboard from "./pages/dashboard";
+import Dashboard from "./pages/Dashboard";
 
 function App() {
   const [theme, setTheme] = useState("dark");
